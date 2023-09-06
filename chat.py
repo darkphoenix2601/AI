@@ -1,7 +1,7 @@
 import openai
 
 # Set up your OpenAI API key
-openai.api_key = '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'
+openai.api_key = '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'
 
 # Function to ask the chatbot a question and get a response
 def ask_chatbot(question, chat_log=[]):
